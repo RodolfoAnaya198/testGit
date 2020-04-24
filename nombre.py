@@ -1,9 +1,2 @@
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
-print("Jose Rodolfo Matínez Anaya")
+print("Rodolfo Anaya")
+
