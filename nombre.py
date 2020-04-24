@@ -1,6 +1,6 @@
 print("Rodolfo Anaya")
 
-a = 3
-b = 5
+a = 21
+b = 21 
 
 print(a+b)
